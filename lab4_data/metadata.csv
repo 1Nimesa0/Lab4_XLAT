@@ -1,0 +1,49 @@
+﻿unit_id,label,key,candidate,speaker,duration_sec,num_samples,rms,file_path,description
+moi_01,mời,moi,01,Speaker_A,0.69,11040,0.13848,lab4_data/units/moi_01.wav,Neutral / Mid tone
+moi_02,mời,moi,02,Speaker_A,0.6634,10615,0.1315,lab4_data/units/moi_02.wav,Continuation / Slightly higher pitch
+moi_03,mời,moi,03,Speaker_A,0.7188,11500,0.11661,lab4_data/units/moi_03.wav,Cadence / Slightly lower pitch
+khach_01,khách,khach,01,Speaker_A,0.37,5920,0.0886,lab4_data/units/khach_01.wav,Neutral / Mid tone
+khach_02,khách,khach,02,Speaker_A,0.3558,5692,0.05952,lab4_data/units/khach_02.wav,Continuation / Slightly higher pitch
+khach_03,khách,khach,03,Speaker_A,0.3854,6167,0.05097,lab4_data/units/khach_03.wav,Cadence / Slightly lower pitch
+hang_01,hàng,hang,01,Speaker_A,0.562,8992,0.10492,lab4_data/units/hang_01.wav,Neutral / Mid tone
+hang_02,hàng,hang,02,Speaker_A,0.5404,8646,0.07042,lab4_data/units/hang_02.wav,Continuation / Slightly higher pitch
+hang_03,hàng,hang,03,Speaker_A,0.5854,9367,0.06237,lab4_data/units/hang_03.wav,Cadence / Slightly lower pitch
+so_01,số,so,01,Speaker_A,0.658,10528,0.12126,lab4_data/units/so_01.wav,Neutral / Mid tone
+so_02,số,so,02,Speaker_A,0.6327,10123,0.08343,lab4_data/units/so_02.wav,Continuation / Slightly higher pitch
+so_03,số,so,03,Speaker_A,0.6854,10967,0.07794,lab4_data/units/so_03.wav,Cadence / Slightly lower pitch
+khong_01,không,khong,01,Speaker_A,0.466,7456,0.13041,lab4_data/units/khong_01.wav,Neutral / Mid tone
+khong_02,không,khong,02,Speaker_A,0.4481,7169,0.11031,lab4_data/units/khong_02.wav,Continuation / Slightly higher pitch
+khong_03,không,khong,03,Speaker_A,0.4854,7767,0.09424,lab4_data/units/khong_03.wav,Cadence / Slightly lower pitch
+mot_01,một,mot,01,Speaker_A,0.466,7456,0.13692,lab4_data/units/mot_01.wav,Neutral / Mid tone
+mot_02,một,mot,02,Speaker_A,0.4481,7169,0.12458,lab4_data/units/mot_02.wav,Continuation / Slightly higher pitch
+mot_03,một,mot,03,Speaker_A,0.4854,7767,0.11341,lab4_data/units/mot_03.wav,Cadence / Slightly lower pitch
+hai_01,hai,hai,01,Speaker_A,0.53,8480,0.10126,lab4_data/units/hai_01.wav,Neutral / Mid tone
+hai_02,hai,hai,02,Speaker_A,0.5096,8154,0.07867,lab4_data/units/hai_02.wav,Continuation / Slightly higher pitch
+hai_03,hai,hai,03,Speaker_A,0.5521,8833,0.06802,lab4_data/units/hai_03.wav,Cadence / Slightly lower pitch
+ba_01,ba,ba,01,Speaker_A,0.562,8992,0.11956,lab4_data/units/ba_01.wav,Neutral / Mid tone
+ba_02,ba,ba,02,Speaker_A,0.5404,8646,0.09252,lab4_data/units/ba_02.wav,Continuation / Slightly higher pitch
+ba_03,ba,ba,03,Speaker_A,0.5854,9367,0.08592,lab4_data/units/ba_03.wav,Cadence / Slightly lower pitch
+bon_01,bốn,bon,01,Speaker_A,0.594,9504,0.11657,lab4_data/units/bon_01.wav,Neutral / Mid tone
+bon_02,bốn,bon,02,Speaker_A,0.5711,9138,0.10369,lab4_data/units/bon_02.wav,Continuation / Slightly higher pitch
+bon_03,bốn,bon,03,Speaker_A,0.6188,9900,0.09139,lab4_data/units/bon_03.wav,Cadence / Slightly lower pitch
+nam_01,năm,nam,01,Speaker_A,0.562,8992,0.12609,lab4_data/units/nam_01.wav,Neutral / Mid tone
+nam_02,năm,nam,02,Speaker_A,0.5404,8646,0.11924,lab4_data/units/nam_02.wav,Continuation / Slightly higher pitch
+nam_03,năm,nam,03,Speaker_A,0.5854,9367,0.10407,lab4_data/units/nam_03.wav,Cadence / Slightly lower pitch
+sau_01,sáu,sau,01,Speaker_A,0.562,8992,0.11022,lab4_data/units/sau_01.wav,Neutral / Mid tone
+sau_02,sáu,sau,02,Speaker_A,0.5404,8646,0.0709,lab4_data/units/sau_02.wav,Continuation / Slightly higher pitch
+sau_03,sáu,sau,03,Speaker_A,0.5854,9367,0.0637,lab4_data/units/sau_03.wav,Cadence / Slightly lower pitch
+bay_01,bảy,bay,01,Speaker_A,0.562,8992,0.12519,lab4_data/units/bay_01.wav,Neutral / Mid tone
+bay_02,bảy,bay,02,Speaker_A,0.5404,8646,0.10346,lab4_data/units/bay_02.wav,Continuation / Slightly higher pitch
+bay_03,bảy,bay,03,Speaker_A,0.5854,9367,0.09215,lab4_data/units/bay_03.wav,Cadence / Slightly lower pitch
+tam_01,tám,tam,01,Speaker_A,0.53,8480,0.13014,lab4_data/units/tam_01.wav,Neutral / Mid tone
+tam_02,tám,tam,02,Speaker_A,0.5096,8154,0.07331,lab4_data/units/tam_02.wav,Continuation / Slightly higher pitch
+tam_03,tám,tam,03,Speaker_A,0.5521,8833,0.04801,lab4_data/units/tam_03.wav,Cadence / Slightly lower pitch
+chin_01,chín,chin,01,Speaker_A,0.594,9504,0.13473,lab4_data/units/chin_01.wav,Neutral / Mid tone
+chin_02,chín,chin,02,Speaker_A,0.5711,9138,0.10082,lab4_data/units/chin_02.wav,Continuation / Slightly higher pitch
+chin_03,chín,chin,03,Speaker_A,0.6188,9900,0.08772,lab4_data/units/chin_03.wav,Cadence / Slightly lower pitch
+den_01,đến,den,01,Speaker_A,0.594,9504,0.13229,lab4_data/units/den_01.wav,Neutral / Mid tone
+den_02,đến,den,02,Speaker_A,0.5711,9138,0.12211,lab4_data/units/den_02.wav,Continuation / Slightly higher pitch
+den_03,đến,den,03,Speaker_A,0.6188,9900,0.10878,lab4_data/units/den_03.wav,Cadence / Slightly lower pitch
+quay_01,quầy,quay,01,Speaker_A,0.626,10016,0.13784,lab4_data/units/quay_01.wav,Neutral / Mid tone
+quay_02,quầy,quay,02,Speaker_A,0.6019,9631,0.08382,lab4_data/units/quay_02.wav,Continuation / Slightly higher pitch
+quay_03,quầy,quay,03,Speaker_A,0.6521,10433,0.08237,lab4_data/units/quay_03.wav,Cadence / Slightly lower pitch
